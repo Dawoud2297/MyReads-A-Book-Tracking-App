@@ -11,4 +11,3 @@ npm start
 ###### getAll()
 ###### search(query)
 ###### update(book,shelf)
-src/BooksAPI.js
