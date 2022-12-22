@@ -7,7 +7,8 @@ npm install
 npm start
 
 ## Server Side
-#### Backend interactions are add and simplified in BooksAPI.js with these methods...
+#### Backend interactions are add and simplified in src/BooksAPI.js with these methods...
 ###### getAll()
 ###### search(query)
 ###### update(book,shelf)
+src/BooksAPI.js
